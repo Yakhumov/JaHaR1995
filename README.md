@@ -1,7 +1,7 @@
-# Привет!
+# Hello i am Yakumov Jahar! 
 <br>
 
-## Я Frontend-developer, мой стек: 
+## I am a frontend developer, my stack is:
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -39,7 +39,7 @@
 <!-- ## Связь со мной  -->   
 
 
-### ⚙️ GitHub статистика:   
+### ⚙️ GitHub stats:    
 
 <table>
   <tr>
